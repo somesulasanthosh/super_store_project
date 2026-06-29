@@ -28,8 +28,7 @@ This project focuses on analyzing retail sales data to identify sales trends, pr
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
-- Git & GitHub
+- Data modelling
 
 ---
 
